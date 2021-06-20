@@ -257,6 +257,7 @@ img{
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
+    width: 100%;
 }
 
 .formulario__campo:hover{
